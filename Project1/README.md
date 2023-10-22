@@ -8,9 +8,9 @@ Where could you enhance your code? How would these improvements make your code m
 I could enhance this project by making it use class with public and private variables and also make it able to synch in real time.
 
 Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
-
+The most tricky part of this project was converting the different time with 12 and 24 hours. I overcame this by looking at lots of different C++ tutorials to help me figure out the best solution.
 
 What skills from this project will be particularly transferable to other projects or course work?
-
+T
 
 How did you make this program maintainable, readable, and adaptable?
