@@ -5,7 +5,7 @@ What did you do particularly well?
 I created a clock that was presented well and created clean and concise codes and comments that made the program readable.
 
 Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
-
+I could enhance this project by making it use class with public and private variables and also make it able to synch in real time.
 
 Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 
